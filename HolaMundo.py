@@ -7,4 +7,6 @@ print("Adios Mundo")
 
 print("Ahora vamos a sumar un poquito más de texto...")
 
-print("Ya no queda más que agregar")
+print("Ya no queda más que agregar!!!")
+
+print ("Eso es todo amigos")
